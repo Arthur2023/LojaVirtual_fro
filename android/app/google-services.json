@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741162455604",
+    "project_id": "loja-virtual-do-flor-de-gato",
+    "storage_bucket": "loja-virtual-do-flor-de-gato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741162455604:android:7a29f50ecce8ea90c5b061",
+        "android_client_info": {
+          "package_name": "br.com.darlo.loja_virtual_gatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741162455604-vtg1ib6ngad4ab29ni6ohjij2qedolkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcoreyS_XTyBIoND1TPAd7s7n3fVcrE1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741162455604-vtg1ib6ngad4ab29ni6ohjij2qedolkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
