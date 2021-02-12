@@ -71,15 +71,16 @@ class CategoryScreen extends StatelessWidget {
                         );
                       }),
                   ListView.builder(
-                    padding: EdgeInsets.all(4),
+                      padding: EdgeInsets.all(4),
                       itemCount: snapshot.data.documents.length,
-                      itemBuilder:(context, index) {
-    return ProductTile(
-    "list",
-    ProductData.fromDocument(
-    snapshot.data.documents[index],
-    ),
-    );)
+                      itemBuilder: (context, index) {
+                        return ProductTile(
+                          "list",
+                          ProductData.fromDocument(
+                            snapshot.data.documents[index],
+                          ),
+                        );
+                      })
                 ],
               );
             }
